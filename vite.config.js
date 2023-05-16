@@ -1,4 +1,4 @@
 /** @type {import('vite').UserConfig} */
 export default {
-  base: '/',
+  base: 'https://wrongholt.github.io/Vite-Default/',
 };
